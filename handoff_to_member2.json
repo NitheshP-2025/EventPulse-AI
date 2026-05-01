@@ -1,0 +1,60 @@
+{
+  "member_name": "Member 1 - Vision & Assets",
+  "event_context": {
+    "event_name": "Tech Auto Expo 2026",
+    "event_type": "automotive technology expo",
+    "brand_name": "StepOne Motors",
+    "location": "Chennai Trade Centre",
+    "event_date": "April 25-27, 2026"
+  },
+  "assets": {
+    "top_photos": [
+      {
+        "filename": "rank_1_pexels-caleboquendo-3023317.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_1_pexels-caleboquendo-3023317.jpg"
+      },
+      {
+        "filename": "rank_1_pexels-wendywei-1916816.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_1_pexels-wendywei-1916816.jpg"
+      },
+      {
+        "filename": "rank_2_pexels-caleboquendo-3023317.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_2_pexels-caleboquendo-3023317.jpg"
+      },
+      {
+        "filename": "rank_2_pexels-jibarofoto-15325476.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_2_pexels-jibarofoto-15325476.jpg"
+      },
+      {
+        "filename": "rank_3_pexels-jibarofoto-14664104.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_3_pexels-jibarofoto-14664104.jpg"
+      },
+      {
+        "filename": "rank_3_pexels-jibarofoto-15325476.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_3_pexels-jibarofoto-15325476.jpg"
+      },
+      {
+        "filename": "rank_4_pexels-jibarofoto-14664104.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_4_pexels-jibarofoto-14664104.jpg"
+      },
+      {
+        "filename": "rank_4_pexels-tahir-33249938.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_4_pexels-tahir-33249938.jpg"
+      },
+      {
+        "filename": "rank_5_pexels-chris-wade-ntezicimpa-564856410-31855482.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_5_pexels-chris-wade-ntezicimpa-564856410-31855482.jpg"
+      },
+      {
+        "filename": "rank_5_pexels-tahir-33249938.jpg",
+        "path": "D:\\EventPulse_Member1\\output\\top_photos\\rank_5_pexels-tahir-33249938.jpg"
+      }
+    ],
+    "total_photos_processed": 21,
+    "top_photo_score": "72.73793850407284"
+  },
+  "files": {
+    "photos_folder": "D:\\EventPulse_Member1\\output\\top_photos",
+    "scores_csv": "D:\\EventPulse_Member1\\output\\marketing_scores.csv"
+  }
+}
